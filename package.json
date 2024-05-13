@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "jsdom": "^24.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
